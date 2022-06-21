@@ -5,7 +5,7 @@
   "license": "ISC",
   "author": {
     "name": "Blue Cloud Dev",
-    "url": ""
+    "url": "https://github.com/alehsoaresbcdev/botkavak"
   },
   "scripts": {
     "start": "node botzdglistbutton.js",
