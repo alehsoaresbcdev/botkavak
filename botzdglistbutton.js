@@ -247,9 +247,9 @@ const ZDGConnection = async () => {
                      key: { fromMe: true },
                      message: {
                         extendedTextMessage: {
-                           text: 'https://drive.google.com/file/d/1GJ2ni8x_paXP5NfMIpXiZyVjDDuG6Zzk/view',
-                           matchedText: 'https://drive.google.com/file/d/1GJ2ni8x_paXP5NfMIpXiZyVjDDuG6Zzk/view',
-                           canonicalUrl: 'https://drive.google.com/file/d/1GJ2ni8x_paXP5NfMIpXiZyVjDDuG6Zzk/view',
+                           text: 'https://kvkto.click/A-BR00-CTO-WIN1',
+                           matchedText: 'https://kvkto.click/A-BR00-CTO-WIN1',
+                           canonicalUrl: 'https://kvkto.click/A-BR00-CTO-WIN1',
                            title: 'A-BR00-CTO-WIN1',
                            description: 'KAVAK',
                            // opicional
@@ -282,9 +282,9 @@ const ZDGConnection = async () => {
                      key: { fromMe: true },
                      message: {
                         extendedTextMessage: {
-                           text: 'https://drive.google.com/file/d/19e3iNJiIaTHAm2ODV4o3jEPxhs-MsdYG/view',
-                           matchedText: 'https://drive.google.com/file/d/19e3iNJiIaTHAm2ODV4o3jEPxhs-MsdYG/view',
-                           canonicalUrl: 'https://drive.google.com/file/d/19e3iNJiIaTHAm2ODV4o3jEPxhs-MsdYG/view',
+                           text: 'https://kvkto.click/A-BR00-CTO-WIN2',
+                           matchedText: 'https://kvkto.click/A-BR00-CTO-WIN2',
+                           canonicalUrl: 'https://kvkto.click/A-BR00-CTO-WIN2',
                            title: 'A-BR00-CTO-WIN2',
                            description: 'KAVAK',
                            // opicional
@@ -302,9 +302,9 @@ const ZDGConnection = async () => {
                      key: { fromMe: true },
                      message: {
                         extendedTextMessage: {
-                           text: 'https://drive.google.com/file/d/15N5g3sGcAhfE3NsdAU2kHQNsv_DVhipq/view',
-                           matchedText: 'https://drive.google.com/file/d/15N5g3sGcAhfE3NsdAU2kHQNsv_DVhipq/view',
-                           canonicalUrl: 'https://drive.google.com/file/d/15N5g3sGcAhfE3NsdAU2kHQNsv_DVhipq/view',
+                           text: 'https://kvkto.click/A-BR00-CTO-WIN3',
+                           matchedText: 'https://kvkto.click/A-BR00-CTO-WIN3',
+                           canonicalUrl: 'https://kvkto.click/A-BR00-CTO-WIN3',
                            title: 'A-BR00-CTO-WIN3',
                            description: 'KAVAK',
                            // opicional
@@ -322,9 +322,9 @@ const ZDGConnection = async () => {
                      key: { fromMe: true },
                      message: {
                         extendedTextMessage: {
-                           text: 'https://drive.google.com/file/d/1_ffgezG9x1m8TZHXYeEbH6rm6uHwacwh/view',
-                           matchedText: 'https://drive.google.com/file/d/1_ffgezG9x1m8TZHXYeEbH6rm6uHwacwh/view',
-                           canonicalUrl: 'https://drive.google.com/file/d/1_ffgezG9x1m8TZHXYeEbH6rm6uHwacwh/view',
+                           text: 'https://kvkto.click/A-BR00-CTO-WIN4',
+                           matchedText: 'https://kvkto.click/A-BR00-CTO-WIN4',
+                           canonicalUrl: 'https://kvkto.click/A-BR00-CTO-WIN4',
                            title: 'A-BR00-CTO-WIN4',
                            description: 'KAVAK',
                            // opicional
